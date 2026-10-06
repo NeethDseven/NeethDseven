@@ -1,67 +1,22 @@
 <div align="center">
 
-# Sami (Neeth) Labidi
-### Full-Stack Developer Student @ CODA
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=180&section=header&text=SAMI%20(NEETH)%20LABIDI&fontSize=40&fontColor=00ffcc&fontAlignY=35&desc=FULL-STACK%20DEVELOPER%20STUDENT%20@%20CODA&descSize=16&descColor=ffffff" width="100%" />
 
-<br>
-
-<a href="https://github.com/NeethDseven">
-  <img src="https://komarev.com/ghpvc/?username=NeethDseven&color=000000&style=flat-square&label=VISITEURS" alt="Visiteurs" />
-</a>
-
-</div>
-
----
-
-## 01 / CONTEXTE
-
-Actuellement en Bachelor Concepteur / Développeur Full-Stack à l'école CODA, je conçois et développe des applications web et logicielles. De la structuration back-end à l'intégration front-end, je m'intéresse à la conception de solutions logicielles propres, modulables et performantes.
-
----
-
-## 02 / STACK TECHNIQUE
-
-<br>
-
-<div align="center">
-
-| Categorie | Technologies & Outils |
-| :--- | :--- |
-| **Langages Web** | `HTML5` `CSS3` `JavaScript` `PHP` |
-| **Langages Logiciels** | `Python` `Java` |
-| **Environnement & Outils** | `Git` `VS Code` `Linux` |
+<p>
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ffcc?style=for-the-badge&logo=icloud&logoColor=00ffcc" />
+  <img src="https://img.shields.io/badge/SYSTEM-ACTIVE-ff0055?style=for-the-badge&logo=linux&logoColor=ff0055" />
+  <img src="https://img.shields.io/badge/STACK-FULLSTACK-7928ca?style=for-the-badge&logo=codeforces&logoColor=7928ca" />
+</p>
 
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,git,vscode,linux&perline=9" />
-</div>
-
 ---
 
-## 03 / ACTIVITÉ & MÉTRIQUES
+## 01 // SYSTÈME & IDENTITÉ
 
-<br>
-
-<div align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=NeethDseven&show_icons=false&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeethDseven&layout=compact&theme=default&hide_border=true&langs_count=6" />
-</div>
-
----
-
-## 04 / PROJETS MAJEURS
-
-* **[GenV2](https://github.com/NeethDseven/GenV2)** — Développement d'une application logicielle / web axée sur l'optimisation et la structure de code.
-* **[Projet Final](https://github.com/NeethDseven)** — Réalisation du projet de fin de cursus dans le cadre de mon Bachelor Full-Stack à CODA, regroupant l'ensemble des compétences techniques acquises.
-* **[Snake](https://github.com/NeethDseven)** — Implémentation algorithmique du jeu classique Snake, axée sur la logique de programmation et la gestion des flux d'événements.
-
----
-
-## 05 / CONTACT
-
-* **GitHub** : [github.com/NeethDseven](https://github.com/NeethDseven)
-* **LinkedIn** : [linkedin.com/in/sami-labidi-n7d](https://www.linkedin.com/in/sami-labidi-n7d)
-* **Email** : sami.labidi7d@gmail.com
+```yaml
+[PROFIL_UTILISATEUR]
+Nom: Sami (Neeth) Labidi
+Cursus: Bachelor Concepteur / Développeur Full-Stack
+Établissement: CODA
+Statut: En développement actif de solutions logicielles et web
