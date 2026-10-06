@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- Bannière animée avec un dégradé de noir, de bleu et de rouge -->
+<!-- Bannière d'en-tête animée (vagues futuristes Noir / Bleu / Rouge) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=050505,0b1329,8b0000&height=180&section=header&text=SAMI%20(NEETH)%20LABIDI&fontSize=40&fontColor=00d2ff&fontAlignY=35&desc=FULL-STACK%20DEVELOPER%20STUDENT%20@%20CODA&descSize=16&descColor=ff2a2a" width="100%" />
 
-<!-- Badges d'état dynamiques aux couleurs rouge, bleu et noir -->
+<!-- Badges d'état animés -->
 <p>
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00d2ff?style=for-the-badge&logo=icloud&logoColor=00d2ff" />
   <img src="https://img.shields.io/badge/SYSTEM-ACTIVE-ff2a2a?style=for-the-badge&logo=linux&logoColor=ff2a2a" />
@@ -14,6 +14,9 @@
 
 ---
 
+<!-- Séparateur animé lumineux -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ## 👋 À propos de moi
 
 Bienvenue sur ma vitrine digitale. Je suis **Sami (Neeth)**, étudiant en Bachelor Concepteur / Développeur Full-Stack à l'école **CODA**. J'aime comprendre comment les choses fonctionnent sous le capot, concevoir des architectures propres et, occasionnellement, passer trois heures à chercher un point-virgule manquant.
@@ -21,6 +24,9 @@ Bienvenue sur ma vitrine digitale. Je suis **Sami (Neeth)**, étudiant en Bachel
 Mon objectif ? Créer des applications utiles, bien ficelées et qui ne plantent pas (ou du moins, pas trop souvent).
 
 ---
+
+<!-- Séparateur animé lumineux -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🛠️ Ma boîte à outils
 
@@ -32,29 +38,34 @@ Ce que j'utilise au quotidien pour donner vie à mes projets :
 
 <div align="center">
   <br>
-  <!-- Ligne d'icônes dynamiques -->
   <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,git,vscode,linux&perline=9" />
   <br>
 </div>
 
 ---
 
-## 🚀 Ce qui m'occupe en ce moment (Projets majeurs)
+<!-- Séparateur animé lumineux -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🚀 Projets Majeurs
 
 ### 🧬 [GenV2 / GENESIS](https://github.com/NeethDseven/GenV2)
 > **Jeu de découverte et de création du vivant.**
 * **Le pitch :** Le joueur explore des mondes inconnus, découvre de nouvelles espèces et les croise pour générer des formes de vie totalement inédites. La progression ne repose pas sur une ville ou une armée, mais sur le patrimoine biologique construit au fil des découvertes.
 * **Objectif réel :** Le véritable objectif n’est pas d’obtenir la créature la plus puissante. Le plaisir vient de la découverte de nouvelles espèces et de l’expérimentation de croisements inattendus, afin d’enrichir progressivement le patrimoine vivant de l’institut.
 
-### 💻 [Projet Final](https://github.com/NeethDseven)
-> **Le bouquet final de mon Bachelor**
-* La synthèse de toutes mes compétences acquises à CODA, rassemblées dans une application web complète, de la conception à la mise en production.
+### 💻 [Projet Final de 1ère année](https://github.com/NeethDseven)
+> **Le jalon validé de mon cursus**
+* Réalisé et validé avec succès pour valider ma fin de première année à CODA. Il regroupe l'ensemble des compétences techniques et pratiques acquises durant cette première phase d'apprentissage.
 
 ### 🎮 [Snake](https://github.com/NeethDseven)
 > **Le grand classique revisité**
 * Parce qu'on a tous commencé par vouloir refaire ce jeu mythique. Une excellente façon de se frotter à la logique algorithmique et à la gestion des flux d'événements.
 
 ---
+
+<!-- Séparateur animé lumineux -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 📊 Mes stats (pour les amateurs de chiffres)
 
@@ -64,6 +75,9 @@ Ce que j'utilise au quotidien pour donner vie à mes projets :
 </div>
 
 ---
+
+<!-- Séparateur animé lumineux -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 💬 On discute ?
 
@@ -75,6 +89,6 @@ Que ce soit pour parler code, opportunité de stage, alternance ou simplement po
 
 <div align="center">
   <br>
-  <!-- Effet de fin de page dynamique aux couleurs du thème -->
+  <!-- Bannière de pied de page animée -->
   <img src="https://capsule-render.vercel.app/api?type=slice&color=050505,0b1329,8b0000&height=70&section=footer" width="100%" />
 </div>
