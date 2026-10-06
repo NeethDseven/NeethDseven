@@ -67,3 +67,36 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+<!-- HOLOGRAPHIC STATS -->
+<div align="center">
+  <h2><code>./fetch_system_metrics.sh</code></h2>
+</div>
+
+<div align="center">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=NeethDseven&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=FF003C&text_color=ffffff&icon_color=00D2FF" width="48%" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeethDseven&layout=compact&theme=transparent&hide_border=true&langs_count=6&title_color=00D2FF&text_color=ffffff" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeethDseven&theme=transparent&hide_border=true&title_color=FF003C&text_color=ffffff&icon_color=00D2FF" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+<!-- CONNEXION RÉSEAU -->
+<div align="center">
+  <h2><code>TRANSMISSION_UPLINK</code></h2>
+  <br>
+  <a href="https://github.com/NeethDseven"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00D2FF&color=090909" /></a>
+  <a href="https://www.linkedin.com/in/sami-labidi-n7d"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FF003C&color=090909" /></a>
+  <a href="mailto:sami.labidi7d@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00D2FF&color=090909" /></a>
+  <br><br>
+  <!-- Footer coupé au couteau, sans vagues pour reposer l'œil -->
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=050505,0b1329,ff003c&height=80&section=footer" width="100%" />
+</div>
