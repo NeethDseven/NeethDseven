@@ -14,22 +14,21 @@
 
 <br>
 
-<!-- LIGNE DE SÉPARATION (Reste discrète) -->
+<!-- LIGNE DE SÉPARATION -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-<!-- TABLEAU DE BORD (HUD) : TEXTE TERMINAL STATIQUE -->
+<!-- TABLEAU DE BORD (HUD) : TEXTE HUMAIN + TECH -->
 <table align="center" width="100%" style="border: none; background-color: transparent;">
   <tr>
     <td width="50%" align="center" valign="top">
       <h2><code>[ DATA_PROFILE.sys ]</code></h2>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="50"/>
-      <br><br>
-      <code>USER_ID&nbsp;&nbsp;&nbsp;: Sami (Neeth)</code><br>
-      <code>ALIGNMENT : Codeur Nocturne</code><br>
-      <code>OBJECTIVE : Concevoir des archis</code><br>
-      <code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;propres & robustes.</code><br>
+      <br>
+      <b>En résumé (promis, ça prend 30 secondes) :</b><br><br>
+      J'aime comprendre comment les choses fonctionnent sous le capot, concevoir des architectures propres et, occasionnellement, <b>passer trois heures à chercher un point-virgule manquant</b>. <br><br>
+      <b>Mon objectif ?</b><br>
+      Créer des applications utiles, bien ficelées et qui ne plantent pas <i>(ou du moins, pas trop souvent)</i>.
     </td>
     <td width="50%" align="center" valign="top">
       <h2><code>[ TECH_CORE.exe ]</code></h2>
@@ -97,6 +96,5 @@
   <a href="https://www.linkedin.com/in/sami-labidi-n7d"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FF003C&color=090909" /></a>
   <a href="mailto:sami.labidi7d@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00D2FF&color=090909" /></a>
   <br><br>
-  <!-- Footer coupé au couteau, sans vagues pour reposer l'œil -->
   <img src="https://capsule-render.vercel.app/api?type=slice&color=050505,0b1329,ff003c&height=80&section=footer" width="100%" />
 </div>
