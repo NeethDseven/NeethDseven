@@ -49,18 +49,18 @@ Ce que j'utilise au quotidien pour donner vie à mes projets :
 
 ## 🚀 Projets Majeurs
 
-### 🧬 [GenV2 / GENESIS](https://github.com/NeethDseven/GenV2)
+### 🧬 [GenV2 / GENESIS](https://github.com/NeethDseven/GENV2)
 > **Jeu de découverte et de création du vivant.**
 * **Le pitch :** Le joueur explore des mondes inconnus, découvre de nouvelles espèces et les croise pour générer des formes de vie totalement inédites. La progression ne repose pas sur une ville ou une armée, mais sur le patrimoine biologique construit au fil des découvertes.
 * **Objectif réel :** Le véritable objectif n’est pas d’obtenir la créature la plus puissante. Le plaisir vient de la découverte de nouvelles espèces et de l’expérimentation de croisements inattendus, afin d’enrichir progressivement le patrimoine vivant de l’institut.
 
-### 💻 [Projet Final de 1ère année](https://github.com/NeethDseven)
+### 💻 [Projet Final de 1ère année](https://github.com/NeethDseven/parking_d)
 > **Le jalon validé de mon cursus**
-* Réalisé et validé avec succès pour valider ma fin de première année à CODA. Il regroupe l'ensemble des compétences techniques et pratiques acquises durant cette première phase d'apprentissage.
+* Réalisé et validé avec succès pour valider ma fin de première année à CODA (`parking_d`). Il regroupe l'ensemble des compétences techniques et pratiques acquises durant cette première phase d'apprentissage.
 
-### 🎮 [Snake](https://github.com/NeethDseven)
+### 🎮 [Snake](https://github.com/NeethDseven/coda-2024-snake)
 > **Le grand classique revisité**
-* Parce qu'on a tous commencé par vouloir refaire ce jeu mythique. Une excellente façon de se frotter à la logique algorithmique et à la gestion des flux d'événements.
+* Implémentation du jeu Snake développée dans le cadre de mon cursus à CODA. Une excellente façon de se frotter à la logique algorithmique et à la gestion des flux d'événements.
 
 ---
 
