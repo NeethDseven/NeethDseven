@@ -1,6 +1,14 @@
 <div align="center">
 
-<img src="banner.png" alt="Sami (Neeth) Labidi - Profil GitHub" width="100%">
+<!-- Bannière animée dynamique (effet vagues et dégradé lumineux) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=180&section=header&text=SAMI%20(NEETH)%20LABIDI&fontSize=40&fontColor=00ffcc&fontAlignY=35&desc=FULL-STACK%20DEVELOPER%20STUDENT%20@%20CODA&descSize=16&descColor=ffffff" width="100%" />
+
+<!-- Badges d'état animés -->
+<p>
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ffcc?style=for-the-badge&logo=icloud&logoColor=00ffcc" />
+  <img src="https://img.shields.io/badge/SYSTEM-ACTIVE-ff0055?style=for-the-badge&logo=linux&logoColor=ff0055" />
+  <img src="https://img.shields.io/badge/STACK-FULLSTACK-7928ca?style=for-the-badge&logo=codeforces&logoColor=7928ca" />
+</p>
 
 </div>
 
@@ -8,18 +16,26 @@
 
 ## 👋 À propos de moi
 
-Bienvenue sur ma vitrine digitale. Je suis Sami (Neeth), étudiant en Bachelor Concepteur/Développeur Full-Stack à l'école CODA. Ce design représente ma vision du développement : complexe, organique et structuré.
+Bienvenue sur ma vitrine digitale. Je suis **Sami (Neeth)**, étudiant en Bachelor Concepteur / Développeur Full-Stack à l'école **CODA**. J'aime comprendre comment les choses fonctionnent sous le capot, concevoir des architectures propres et, occasionnellement, passer trois heures à chercher un point-virgule manquant.
 
-En résumé (promis, ça prend 30 secondes) : j'aime comprendre comment les choses fonctionnent sous le capot, concevoir des architectures propres et, occasionnellement, passer trois heures à chercher un point-virgule manquant. Mon objectif ? Créer des applications utiles, bien ficelées et qui ne plantent pas (ou du moins, pas trop souvent).
+Mon objectif ? Créer des applications utiles, bien ficelées et qui ne plantent pas (ou du moins, pas trop souvent).
 
 ---
 
 ## 🛠️ Ma boîte à outils
 
 Ce que j'utilise au quotidien pour donner vie à mes projets :
+
 * **Front-End & Web :** `HTML5`, `CSS3`, `JavaScript`, `PHP` (pour structurer, styliser et dynamiser tout ça).
 * **Back-End & Logique :** `Python`, `Java` (quand il faut structurer les idées et faire tourner la machine).
 * **Terrain de jeu :** `Git` (parce que faire des `git push` salvateurs évite bien des sueurs froides), `VS Code` et un peu de `Linux` pour garder le contrôle.
+
+<div align="center">
+  <br>
+  <!-- Ligne d'icônes dynamiques -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,git,vscode,linux&perline=9" />
+  <br>
+</div>
 
 ---
 
@@ -56,3 +72,9 @@ Que ce soit pour parler code, opportunité de stage, alternance ou simplement po
 * **GitHub :** [NeethDseven](https://github.com/NeethDseven)
 * **LinkedIn :** [sami-labidi-n7d](https://www.linkedin.com/in/sami-labidi-n7d)
 * **Email :** `sami.labidi7d@gmail.com`
+
+<div align="center">
+  <br>
+  <!-- Effet de fin de page dynamique / lumineux -->
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6,11,20,30,40&height=70&section=footer" width="100%" />
+</div>
