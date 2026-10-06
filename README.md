@@ -1,19 +1,19 @@
 <div align="center">
-
-# Salut, c'est Sami (Neeth).
-### Développeur Full-Stack en construction (et grand consommateur de café).
-
-<br>
-
-<p>
-  <img src="https://img.shields.io/badge/Statut-En_pleine_formulation_de_code-10b981?style=flat-square" />
-  <img src="https://img.shields.io/badge/École-CODA_Bachelor_Full_Stack-6366f1?style=flat-square" />
-  <img src="https://img.shields.io/badge/Café_consommé-Beaucoup_trop-f59e0b?style=flat-square" />
-</p>
-
+  <img src="https://replicate.delivery/xpbkg/0Tf478xL6aXpBZK19f9Yl7T7p9Yf7T7p9Yf7T7p9Yf7T7p9Y/output.png" alt="Sami (Neeth) Labidi - Profil GitHub Innovant" width="100%">
 </div>
 
+## 👋 À propos de moi
+
+Bienvenue sur ma vitrine digitale. Je suis Sami (Neeth), étudiant en Bachelor Concepteur/Développeur Full-Stack à CODA. Ce design représente ma vision du développement : complexe, organique et structuré.
+
+Vous trouverez ci-dessus une vue d'ensemble de mon écosystème technique et de mes projets principaux. N'hésitez pas à explorer les dépôts associés pour plus de détails.
+
 ---
+<div align="center">
+  <a href="https://github.com/NeethDseven?tab=repositories">
+    <img src="https://img.shields.io/badge/VOIR_MES_PROJETS-252525?style=for-the-badge&logo=github&logoColor=00ffcc" alt="Mes Projets" />
+  </a>
+</div>
 
 ## En résumé (promis, ça prend 30 secondes)
 
