@@ -2,16 +2,16 @@
 
 <!-- EN-TÊTE MASSIVE : TERMINAL BOOT SEQUENCE -->
 <a href="https://github.com/NeethDseven">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=2500&pause=500&color=FF003C&center=true&vCenter=true&width=800&height=80&lines=SAMI+(NEETH)+LABIDI;>_SYSTEM_OVERRIDE_;FULL-STACK+DEVELOPER" alt="Typing effect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=2500&pause=500&color=FF003C&center=true&vCenter=true&width=800&height=80&lines=SAMI+%28NEETH%29+LABIDI;%3E_SYSTEM_OVERRIDE_;FULL-STACK+DEVELOPER" alt="Boot Sequence" />
 </a>
 <br>
 <a href="https://github.com/NeethDseven">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1000&color=00D2FF&center=true&vCenter=true&width=800&height=40&lines=>_INITIALIZING+CODA_PROTOCOL...;[+████████████████████████+]+100%25;>_HELLO_WORLD.exe" alt="Typing effect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1000&color=00D2FF&center=true&vCenter=true&width=800&height=40&lines=%3E_INITIALIZING+CODA_PROTOCOL...;[%20||||||||||||||||||||%20]+100%25;%3E_HELLO_WORLD.exe" alt="Loading Protocol" />
 </a>
 
 <br>
 
-<!-- BADGES NÉON (Contraste extrême Rouge/Bleu/Noir) -->
+<!-- BADGES NÉON -->
 <img src="https://img.shields.io/badge/STATUS-ONLINE-000000?style=for-the-badge&logo=icloud&logoColor=00D2FF&color=00d2ff&labelColor=000000" />
 <img src="https://img.shields.io/badge/CLASS-FULL_STACK-000000?style=for-the-badge&logo=codeforces&logoColor=FF003C&color=FF003C&labelColor=000000" />
 <img src="https://img.shields.io/badge/BASE-CODA_SCHOOL-000000?style=for-the-badge&logo=git&logoColor=00D2FF&color=0a0a0a&labelColor=FF003C" />
@@ -59,29 +59,4 @@
 > *Le joueur explore des mondes inconnus et croise des espèces pour générer des formes de vie inédites. Le but absolu ? Enrichir le patrimoine biologique du laboratoire. Zéro gestion d'armée, 100% création.*
 
 > ### 💻 [PARKING_D : ARCHITECTURE FINALE V1](https://github.com/NeethDseven/parking_d)
-> `STATUT : VALIDÉ` | `TYPE : JALON CURSUS`
-> *Le projet final validant ma 1ère année à CODA. Une synthèse brute de logique back-end, d'intégration front-end et d'architecture structurée.*
-
-> ### 🎮 [SNAKE : PROTOCOLE RÉTRO](https://github.com/NeethDseven/coda-2024-snake)
-> `STATUT : DÉPLOYÉ` | `TYPE : ALGORITHMIQUE`
-> *Parce qu'on doit tous affronter le serpent un jour. Une implémentation pour maîtriser la gestion des flux d'événements et la boucle logique d'un programme.*
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
-
-<!-- HOLOGRAPHIC STATS (Fonds transparents) -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&color=00D2FF&center=true&width=600&lines=///_SYSTEM_METRICS_///" />
-</div>
-
-<div align="center">
-  <!-- Les stats utilisent bg_color=00000000 pour être 100% transparentes et s'intégrer au fond ! -->
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=NeethDseven&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&title_color=FF003C&text_color=ffffff&icon_color=00D2FF&bg_color=00000000" width="48%" />
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeethDseven&layout=compact&theme=radical&hide_border=true&langs_count=6&title_color=00D2FF&text_color=ffffff&bg_color=00000000" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <!-- Bonus
+> `STATUT : VALIDÉ` | `TYPE : J
