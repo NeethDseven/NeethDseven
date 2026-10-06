@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- Bannière animée dynamique (effet vagues et dégradé lumineux) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=180&section=header&text=SAMI%20(NEETH)%20LABIDI&fontSize=40&fontColor=00ffcc&fontAlignY=35&desc=FULL-STACK%20DEVELOPER%20STUDENT%20@%20CODA&descSize=16&descColor=ffffff" width="100%" />
+<!-- Bannière animée avec un dégradé de noir, de bleu et de rouge -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=050505,0b1329,8b0000&height=180&section=header&text=SAMI%20(NEETH)%20LABIDI&fontSize=40&fontColor=00d2ff&fontAlignY=35&desc=FULL-STACK%20DEVELOPER%20STUDENT%20@%20CODA&descSize=16&descColor=ff2a2a" width="100%" />
 
-<!-- Badges d'état animés -->
+<!-- Badges d'état dynamiques aux couleurs rouge, bleu et noir -->
 <p>
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ffcc?style=for-the-badge&logo=icloud&logoColor=00ffcc" />
-  <img src="https://img.shields.io/badge/SYSTEM-ACTIVE-ff0055?style=for-the-badge&logo=linux&logoColor=ff0055" />
-  <img src="https://img.shields.io/badge/STACK-FULLSTACK-7928ca?style=for-the-badge&logo=codeforces&logoColor=7928ca" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00d2ff?style=for-the-badge&logo=icloud&logoColor=00d2ff" />
+  <img src="https://img.shields.io/badge/SYSTEM-ACTIVE-ff2a2a?style=for-the-badge&logo=linux&logoColor=ff2a2a" />
+  <img src="https://img.shields.io/badge/STACK-FULLSTACK-0a0a0a?style=for-the-badge&logo=codeforces&logoColor=ff2a2a" />
 </p>
 
 </div>
@@ -59,8 +59,8 @@ Ce que j'utilise au quotidien pour donner vie à mes projets :
 ## 📊 Mes stats (pour les amateurs de chiffres)
 
 <div align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=NeethDseven&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeethDseven&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=NeethDseven&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeethDseven&layout=compact&theme=radical&hide_border=true&langs_count=6" width="48%" />
 </div>
 
 ---
@@ -75,6 +75,6 @@ Que ce soit pour parler code, opportunité de stage, alternance ou simplement po
 
 <div align="center">
   <br>
-  <!-- Effet de fin de page dynamique / lumineux -->
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6,11,20,30,40&height=70&section=footer" width="100%" />
+  <!-- Effet de fin de page dynamique aux couleurs du thème -->
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=050505,0b1329,8b0000&height=70&section=footer" width="100%" />
 </div>
