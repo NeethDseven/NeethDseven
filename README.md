@@ -59,4 +59,44 @@
 > *Le joueur explore des mondes inconnus et croise des espèces pour générer des formes de vie inédites. Le but absolu ? Enrichir le patrimoine biologique du laboratoire. Zéro gestion d'armée, 100% création.*
 
 > ### 💻 [PARKING_D : ARCHITECTURE FINALE V1](https://github.com/NeethDseven/parking_d)
-> `STATUT : VALIDÉ` | `TYPE : J
+> `STATUT : VALIDÉ` | `TYPE : JALON CURSUS`
+> *Le projet final validant ma 1ère année à CODA. Une synthèse brute de logique back-end, d'intégration front-end et d'architecture structurée.*
+
+> ### 🎮 [SNAKE : PROTOCOLE RÉTRO](https://github.com/NeethDseven/coda-2024-snake)
+> `STATUT : DÉPLOYÉ` | `TYPE : ALGORITHMIQUE`
+> *Parce qu'on doit tous affronter le serpent un jour. Une implémentation pour maîtriser la gestion des flux d'événements et la boucle logique d'un programme.*
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+<!-- HOLOGRAPHIC STATS -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&color=00D2FF&center=true&width=600&lines=///_SYSTEM_METRICS_///" />
+</div>
+
+<div align="center">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=NeethDseven&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=FF003C&text_color=ffffff&icon_color=00D2FF" width="48%" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeethDseven&layout=compact&theme=transparent&hide_border=true&langs_count=6&title_color=00D2FF&text_color=ffffff" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeethDseven&theme=transparent&hide_border=true&title_color=FF003C&text_color=ffffff&icon_color=00D2FF" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+<!-- CONNEXION RÉSEAU -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&color=FF003C&center=true&width=600&lines=///_COMM_LINK_///" />
+  <br><br>
+  <a href="https://github.com/NeethDseven"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00D2FF&color=090909" /></a>
+  <a href="https://www.linkedin.com/in/sami-labidi-n7d"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FF003C&color=090909" /></a>
+  <a href="mailto:sami.labidi7d@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00D2FF&color=090909" /></a>
+  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=050505,0b1329,ff003c&height=80&section=footer" width="100%" />
+</div>
